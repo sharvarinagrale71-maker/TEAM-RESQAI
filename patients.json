@@ -1,0 +1,34 @@
+[
+  {
+    "id": "P1",
+    "name": "Patient A",
+    "lat": 19.9900,
+    "lon": 73.7850,
+    "vitals": {"hr": 130, "systolic_bp": 82, "resp_rate": 28, "spo2": 89, "gcs": 13, "temp_c": 38.9},
+    "description": "Motorcycle accident, visible chest trauma, labored breathing"
+  },
+  {
+    "id": "P2",
+    "name": "Patient B",
+    "lat": 19.9700,
+    "lon": 73.7700,
+    "vitals": {"hr": 95, "systolic_bp": 118, "resp_rate": 18, "spo2": 97, "gcs": 15, "temp_c": 37.1},
+    "description": "Fall from ladder, suspected wrist fracture, alert and stable"
+  },
+  {
+    "id": "P3",
+    "name": "Patient C",
+    "lat": 20.0050,
+    "lon": 73.7500,
+    "vitals": {"hr": 145, "systolic_bp": 70, "resp_rate": 32, "spo2": 84, "gcs": 9, "temp_c": 36.5},
+    "description": "Cardiac arrest resuscitated en route, unresponsive, unstable"
+  },
+  {
+    "id": "P4",
+    "name": "Patient D",
+    "lat": 19.9400,
+    "lon": 73.8050,
+    "vitals": {"hr": 88, "systolic_bp": 122, "resp_rate": 16, "spo2": 98, "gcs": 15, "temp_c": 36.9},
+    "description": "Minor lacerations from glass, ambulatory, anxious but stable"
+  }
+]
